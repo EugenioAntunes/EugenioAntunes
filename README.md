@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Secretaria da Controladoria Geral Do estado
+- 🔭 I’m currently working at Secretaria da Controladoria Geral do Estado de Pernambuco
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about what you want..
 - 📫 How to reach me: eugenio.antunes@yahoo.com.br
@@ -24,6 +24,12 @@
   
   ##
   
+  <div> 
+  <a href="https://instagram.com/eugenio_antunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eugenio13.antunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eugenio-antunes-88343821" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
   
 <!--
 **EugenioAntunes/EugenioAntunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
