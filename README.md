@@ -1,4 +1,4 @@
-### Just the First Steps
+###   Just the First Steps...
 
 - 🔭 I’m currently working at Secretaria da Controladoria Geral do Estado de Pernambuco
 - 🌱 I’m currently learning Web Development
