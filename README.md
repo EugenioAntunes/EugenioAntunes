@@ -20,6 +20,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://as2.ftcdn.net/v2/jpg/03/36/95/65/500_F_336956540_ISXw2KVXgbmFKZvEuzdCi6S00qGxJUzS.jpg">
+
 </div>
   
   ##
