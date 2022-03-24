@@ -1,7 +1,7 @@
 ###   Just the First Steps...
 
 - 🔭 I’m currently working at Secretaria da Controladoria Geral do Estado de Pernambuco
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development using Python and Django.
 - 💬 Ask me about what you want..
 - 📫 How to reach me: eugenio.antunes@yahoo.com.br
 - 😄 Pronouns: Ele/Dele
