@@ -1,10 +1,9 @@
 ###   Just the First Steps...
 
 - 🔭 I’m currently working at Secretaria da Controladoria Geral do Estado de Pernambuco
-- 🌱 I’m currently learning Web Development using Python and Django.
-- 💬 Ask me about what you want..
+- 🌱 I’m currently working with Web Development using Python and Django.
+- 💬 Ask me about whatever you want...
 - 📫 How to reach me: eugenio.antunes@yahoo.com.br
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: The life!
 
 <div align="center">
@@ -15,13 +14,15 @@
   
   </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://as2.ftcdn.net/v2/jpg/03/36/95/65/500_F_336956540_ISXw2KVXgbmFKZvEuzdCi6S00qGxJUzS.jpg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+  
+  <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="devops" height="30" width="40" src="https://as2.ftcdn.net/v2/jpg/03/36/95/65/500_F_336956540_ISXw2KVXgbmFKZvEuzdCi6S00qGxJUzS.jpg">
+  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
           
   
 
